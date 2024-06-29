@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toxic_Sad's Rocket League Blog</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Welcome to Toxic_Sad's Rocket League Blog</h1>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section class="intro">
+<h2>About This Blog</h2>
+<p>This blog is dedicated to all things Rocket League. From tips and tricks to game updates and personal insights, you'll find it all here!</p>
+</section>
+<section class="posts">
+<h2>Latest Posts</h2>
+<article>
+<h3>Top 5 Aerial Tips for Beginners</h3>
+<p>Mastering aerials is crucial in Rocket League. Here are my top 5 tips to get you started...</p>
+<a href="#">Read more</a>
+</article>
+<article>
+<h3>How to Improve Your Dribbling Skills</h3>
+<p>Dribbling can be a game-changer. Learn the techniques that will help you control the ball better...</p>
+<a href="#">Read more</a>
+</article>
+</section>
+</main>
+<footer>
+<p>&copy; 2024 Toxic_Sad's Rocket League Blog</p>
+</footer>
+</body>
+</html>
